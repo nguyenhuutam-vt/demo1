@@ -1,0 +1,37 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+    justify-content: center;
+  }
+  .abc{
+   
+    color: aquamarine;
+  }
+
+  /* .devera{
+    display: flex;
+    justify-content: space-around;
+  }
+  .product{
+    justify-content: space-between;
+  } */
+  .img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 180px;
+  }
+
+  .footer{
+      text-align: center;
+      margin-top: 50px;
+  }
+  .btn{
+
+  }
+ 
