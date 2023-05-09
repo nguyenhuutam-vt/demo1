@@ -1,0 +1,33 @@
+.head{
+    
+    text-align: center;
+    height: 100px;
+  
+    padding:50px ;
+    background-color: bisque;
+}
+span{
+    margin: 50px;
+}
+
+.body{
+
+    background-color: gray;
+    height: 300px;
+}
+
+.h1{
+    padding: 70px ;
+    text-align: center;
+}
+
+button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
