@@ -5,6 +5,7 @@
   
     padding:50px ;
     background-color: bisque;
+   
 }
 span{
     margin: 50px;
@@ -12,7 +13,7 @@ span{
 
 .body{
 
-    background-color: gray;
+    background-image: linear-gradient(to right , pink , purple);
     height: 300px;
 }
 
